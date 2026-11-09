@@ -1,6 +1,6 @@
 # Quantum Loom
 
-[![CI](https://github.com/dniku/quantum-loom/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/dniku/quantum-loom/actions/workflows/check.yml) **[▶ Play it live](https://raw.githack.com/dniku/quantum-loom/main/index.html)**
+[![CI](https://github.com/thaumapolis/quantum-loom/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/thaumapolis/quantum-loom/actions/workflows/check.yml) **[▶ Play it live](https://raw.githack.com/thaumapolis/quantum-loom/main/index.html)**
 
 One quantum particle, in a flat box, simulated rather than faked — and the Fourier transform that makes it behave strangely.
 
@@ -54,10 +54,10 @@ xdg-open index.html
 
 ## Playing it online
 
-**<https://raw.githack.com/dniku/quantum-loom/main/index.html>** runs the page straight out of this repo — no build, no hosting — which works only because the page is one file that asks for nothing else. That it really is this file is worth checking rather than taking on faith:
+**<https://raw.githack.com/thaumapolis/quantum-loom/main/index.html>** runs the page straight out of this repo — no build, no hosting — which works only because the page is one file that asks for nothing else. That it really is this file is worth checking rather than taking on faith:
 
 ```bash
-curl -s https://raw.githack.com/dniku/quantum-loom/main/index.html | sha256sum
+curl -s https://raw.githack.com/thaumapolis/quantum-loom/main/index.html | sha256sum
 sha256sum index.html                             # same digest
 ```
 
