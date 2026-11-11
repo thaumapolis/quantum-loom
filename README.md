@@ -1,5 +1,7 @@
 # Quantum Loom
 
+<!-- Front page image: docs/readme-desktop.png -->
+
 [![CI](https://github.com/thaumapolis/quantum-loom/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/thaumapolis/quantum-loom/actions/workflows/check.yml) **[▶ Play it live](https://raw.githack.com/thaumapolis/quantum-loom/main/index.html)**
 
 One quantum particle, in a flat box, simulated rather than faked — and the Fourier transform that makes it behave strangely.
